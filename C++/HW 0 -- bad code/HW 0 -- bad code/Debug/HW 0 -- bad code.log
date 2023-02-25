@@ -1,0 +1,3 @@
+﻿  bad.cpp
+C:\Users\David\OneDrive - Saint Vincent College\Documents\C++\HW 0 -- bad code\HW 0 -- bad code\bad.cpp(16,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  HW 0 -- bad code.vcxproj -> C:\Users\David\OneDrive - Saint Vincent College\Documents\C++\HW 0 -- bad code\Debug\HW 0 -- bad code.exe

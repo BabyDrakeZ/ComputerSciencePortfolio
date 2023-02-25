@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CS111Project2-Richman", "CS111Project2-Richman\CS111Project2-Richman.vcxproj", "{42F7A620-BE78-4FC1-ABCE-C90A591CE714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F7A620-BE78-4FC1-ABCE-C90A591CE714}.Debug|x64.ActiveCfg = Debug|x64
+		{42F7A620-BE78-4FC1-ABCE-C90A591CE714}.Debug|x64.Build.0 = Debug|x64
+		{42F7A620-BE78-4FC1-ABCE-C90A591CE714}.Debug|x86.ActiveCfg = Debug|Win32
+		{42F7A620-BE78-4FC1-ABCE-C90A591CE714}.Debug|x86.Build.0 = Debug|Win32
+		{42F7A620-BE78-4FC1-ABCE-C90A591CE714}.Release|x64.ActiveCfg = Release|x64
+		{42F7A620-BE78-4FC1-ABCE-C90A591CE714}.Release|x64.Build.0 = Release|x64
+		{42F7A620-BE78-4FC1-ABCE-C90A591CE714}.Release|x86.ActiveCfg = Release|Win32
+		{42F7A620-BE78-4FC1-ABCE-C90A591CE714}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FD3981B-B53C-44A6-B715-C16F7799EA4A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿'Exam1Richman.exe' (Win32): Loaded 'C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\Exam1Richman\Debug\Exam1Richman.exe'. Symbols loaded.
+'Exam1Richman.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Exam1Richman.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Exam1Richman.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Exam1Richman.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Exam1Richman.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Exam1Richman.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x1e74 has exited with code 0 (0x0).
+'Exam1Richman.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Exam1Richman.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Exam1Richman.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x2bd0 has exited with code 0 (0x0).
+The thread 0x244c has exited with code 0 (0x0).
+The program '[8624] Exam1Richman.exe' has exited with code 0 (0x0).

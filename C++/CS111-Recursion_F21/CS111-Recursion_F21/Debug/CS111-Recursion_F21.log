@@ -1,0 +1,4 @@
+﻿  CS111-Recursion_F21.cpp
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111-Recursion_F21\CS111-Recursion_F21\CS111-Recursion_F21.cpp(75,31): warning C4244: 'return': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111-Recursion_F21\CS111-Recursion_F21\CS111-Recursion_F21.cpp(83,12): warning C4244: 'return': conversion from 'uint64_t' to 'int', possible loss of data
+  CS111-Recursion_F21.vcxproj -> C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111-Recursion_F21\Debug\CS111-Recursion_F21.exe

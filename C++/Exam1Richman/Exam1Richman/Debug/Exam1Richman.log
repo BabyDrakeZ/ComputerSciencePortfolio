@@ -1,0 +1,3 @@
+﻿  Exam1Richman.cpp
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\Exam1Richman\Exam1Richman\Exam1Richman.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Exam1Richman.vcxproj -> C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\Exam1Richman\Debug\Exam1Richman.exe

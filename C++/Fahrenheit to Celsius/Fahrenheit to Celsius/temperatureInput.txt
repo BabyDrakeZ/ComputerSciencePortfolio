@@ -1,0 +1,7 @@
+Farhenhiet value below:
+90
+
+// File Format:
+// 1: <string>
+// 2: <double>
+// 3: endOfFile

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111-Classes\CS111-Classes\main.cpp(18,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111-Classes\CS111-Classes\main.cpp(18,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CS111-Classes.vcxproj -> C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111-Classes\Debug\CS111-Classes.exe

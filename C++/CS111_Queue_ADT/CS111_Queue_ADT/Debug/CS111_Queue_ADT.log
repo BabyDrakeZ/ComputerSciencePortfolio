@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111_Queue_ADT\CS111_Queue_ADT\StackTV.cpp(15,28): warning C4101: 'e': unreferenced local variable
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111_Queue_ADT\CS111_Queue_ADT\StackTV.cpp(10): message : while compiling class template member function 'T StackTV<T>::Pop(void)'
+          with
+          [
+              T=ContainerT
+          ]
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111_Queue_ADT\CS111_Queue_ADT\main.cpp(30): message : see reference to function template instantiation 'T StackTV<T>::Pop(void)' being compiled
+          with
+          [
+              T=ContainerT
+          ]
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111_Queue_ADT\CS111_Queue_ADT\main.cpp(26): message : see reference to class template instantiation 'StackTV<ContainerT>' being compiled
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111_Queue_ADT\CS111_Queue_ADT\StackTV.cpp(29,28): warning C4101: 'e': unreferenced local variable
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111_Queue_ADT\CS111_Queue_ADT\StackTV.cpp(25): message : while compiling class template member function 'void StackTV<ContainerT>::Push(T)'
+          with
+          [
+              T=ContainerT
+          ]
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111_Queue_ADT\CS111_Queue_ADT\main.cpp(28): message : see reference to function template instantiation 'void StackTV<ContainerT>::Push(T)' being compiled
+          with
+          [
+              T=ContainerT
+          ]
+  StackTV.cpp
+  Generating Code...
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111_Queue_ADT\CS111_Queue_ADT\StackTV.cpp(19): error C4700: uninitialized local variable 't2' used

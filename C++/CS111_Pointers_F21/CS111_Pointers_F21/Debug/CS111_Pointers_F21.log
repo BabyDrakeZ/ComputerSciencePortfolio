@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111_Pointers_F21\CS111_Pointers_F21\main.cpp(25,15): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111_Pointers_F21\CS111_Pointers_F21\main.cpp(34,13): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+  CS111_Pointers_F21.vcxproj -> C:\Users\richmand\OneDrive - Saint Vincent College\Documents\C++\CS111_Pointers_F21\Debug\CS111_Pointers_F21.exe

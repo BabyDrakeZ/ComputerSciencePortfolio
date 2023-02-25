@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Richman\OneDrive - Saint Vincent College\Documents\C++\CS111-Exam2-Richman\CS111-Exam2-Richman\main.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Richman\OneDrive - Saint Vincent College\Documents\C++\CS111-Exam2-Richman\CS111-Exam2-Richman\main.cpp(63): warning C4715: 'minOfList': not all control paths return a value
+  CS111-Exam2-Richman.vcxproj -> C:\Users\Richman\OneDrive - Saint Vincent College\Documents\C++\CS111-Exam2-Richman\Debug\CS111-Exam2-Richman.exe

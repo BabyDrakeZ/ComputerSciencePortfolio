@@ -1,0 +1,4 @@
+﻿  CS111Project1-Richman.cpp
+C:\Users\David\OneDrive - Saint Vincent College\Documents\C++\CS111Project1-Richman\CS111Project1-Richman\CS111Project1-Richman.cpp(50,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\David\OneDrive - Saint Vincent College\Documents\C++\CS111Project1-Richman\CS111Project1-Richman\CS111Project1-Richman.cpp(111,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  CS111Project1-Richman.vcxproj -> C:\Users\David\OneDrive - Saint Vincent College\Documents\C++\CS111Project1-Richman\Debug\CS111Project1-Richman.exe

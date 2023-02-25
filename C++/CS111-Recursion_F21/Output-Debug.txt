@@ -1,0 +1,14 @@
+﻿'CS111-Recursion_F21.exe' (Win32): Loaded 'C:\Users\Richman\OneDrive - Saint Vincent College\Documents\C++\CS111-Recursion_F21\Debug\CS111-Recursion_F21.exe'. Symbols loaded.
+'CS111-Recursion_F21.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'CS111-Recursion_F21.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'CS111-Recursion_F21.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'CS111-Recursion_F21.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'CS111-Recursion_F21.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'CS111-Recursion_F21.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2bb4 has exited with code 0 (0x0).
+'CS111-Recursion_F21.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'CS111-Recursion_F21.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'CS111-Recursion_F21.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x1250 has exited with code 0 (0x0).
+The thread 0x1cf8 has exited with code 0 (0x0).
+The program '[9864] CS111-Recursion_F21.exe' has exited with code 0 (0x0).
